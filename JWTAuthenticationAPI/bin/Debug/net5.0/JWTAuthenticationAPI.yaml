@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pensionauthorizationapi-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: PensionAuthorizationApi
+  template:
+    metadata:
+      labels:
+        app: PensionAuthorizationApi
+    spec:
+      containers:
+      - name: pensionauthorizationrepos
+        image: mypensionmanagementcr.azurecr.io/authapi:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: pensionmanagementsvc
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pensionauthorizationapi
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: PensionAuthorizationApi

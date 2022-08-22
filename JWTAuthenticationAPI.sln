@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTAuthenticationAPI", "JWTAuthenticationAPI\JWTAuthenticationAPI.csproj", "{95D195AF-14A8-422A-8E90-B294D51F8D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTAuthenticationAPI.test", "JWTAuthenticationAPI.test\JWTAuthenticationAPI.test.csproj", "{7E9F26B2-9701-447C-8834-13456FA34AA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D195AF-14A8-422A-8E90-B294D51F8D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D195AF-14A8-422A-8E90-B294D51F8D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D195AF-14A8-422A-8E90-B294D51F8D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D195AF-14A8-422A-8E90-B294D51F8D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9F26B2-9701-447C-8834-13456FA34AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9F26B2-9701-447C-8834-13456FA34AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9F26B2-9701-447C-8834-13456FA34AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9F26B2-9701-447C-8834-13456FA34AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14CB3064-EE9E-4341-A5B5-F62A0207F3DF}
+	EndGlobalSection
+EndGlobal

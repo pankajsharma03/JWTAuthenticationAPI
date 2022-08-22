@@ -1,0 +1,171 @@
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/appsettings.Development.json
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/appsettings.json
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/log4net.config
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/JWTAuthenticationAPI.yaml
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/JWTAuthenticationAPI.deps.json
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/JWTAuthenticationAPI.runtimeconfig.json
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/JWTAuthenticationAPI.runtimeconfig.dev.json
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/JWTAuthenticationAPI.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/ref/JWTAuthenticationAPI.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/JWTAuthenticationAPI.pdb
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/log4net.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.csproj.AssemblyReference.cache
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.AssemblyInfoInputs.cache
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.AssemblyInfo.cs
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.csproj.CoreCompileInputs.cache
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/staticwebassets/JWTAuthenticationAPI.StaticWebAssets.Manifest.cache
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/staticwebassets/JWTAuthenticationAPI.StaticWebAssets.xml
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/scopedcss/bundle/JWTAuthenticationAPI.styles.css
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.RazorTargetAssemblyInfo.cache
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.csproj.CopyComplete
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/ref/JWTAuthenticationAPI.dll
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.pdb
+/Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/Debug/net5.0/JWTAuthenticationAPI.genruntimeconfig.cache
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.StaticWebAssets.xml
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.exe
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\log4net.config
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.yaml
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.deps.json
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.runtimeconfig.json
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.runtimeconfig.dev.json
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.pdb
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\log4net.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.csproj.AssemblyReference.cache
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.AssemblyInfoInputs.cache
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.AssemblyInfo.cs
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.csproj.CoreCompileInputs.cache
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\scopedcss\bundle\JWTAuthenticationAPI.styles.css
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\staticwebassets\JWTAuthenticationAPI.StaticWebAssets.Manifest.cache
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.RazorTargetAssemblyInfo.cache
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.csproj.CopyComplete
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\refint\JWTAuthenticationAPI.dll
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.pdb
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.genruntimeconfig.cache
+C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\ref\JWTAuthenticationAPI.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\appsettings.json
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.StaticWebAssets.xml
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.exe
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\log4net.config
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.yaml
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.deps.json
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.runtimeconfig.json
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.runtimeconfig.dev.json
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.pdb
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\log4net.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.csproj.AssemblyReference.cache
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.AssemblyInfoInputs.cache
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.AssemblyInfo.cs
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.csproj.CoreCompileInputs.cache
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\scopedcss\bundle\JWTAuthenticationAPI.styles.css
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\staticwebassets\JWTAuthenticationAPI.StaticWebAssets.Manifest.cache
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.RazorTargetAssemblyInfo.cache
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.csproj.CopyComplete
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\refint\JWTAuthenticationAPI.dll
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.pdb
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.genruntimeconfig.cache
+D:\anagular\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\ref\JWTAuthenticationAPI.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\appsettings.json
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.StaticWebAssets.xml
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.exe
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\log4net.config
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.yaml
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.deps.json
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.runtimeconfig.json
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.runtimeconfig.dev.json
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\JWTAuthenticationAPI.pdb
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\log4net.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.csproj.AssemblyReference.cache
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.AssemblyInfoInputs.cache
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.AssemblyInfo.cs
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.csproj.CoreCompileInputs.cache
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\scopedcss\bundle\JWTAuthenticationAPI.styles.css
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\staticwebassets\JWTAuthenticationAPI.StaticWebAssets.Manifest.cache
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.RazorTargetAssemblyInfo.cache
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.csproj.CopyComplete
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\refint\JWTAuthenticationAPI.dll
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.pdb
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\JWTAuthenticationAPI.genruntimeconfig.cache
+D:\anagular\Pankaj Project\Project_Pension-master\Project_Pension-master\JWTAuthenticationAPI\JWTAuthenticationAPI\obj\Debug\net5.0\ref\JWTAuthenticationAPI.dll
