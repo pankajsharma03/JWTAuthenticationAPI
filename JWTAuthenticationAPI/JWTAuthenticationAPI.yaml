@@ -31,3 +31,4 @@ spec:
   - port: 80
   selector:
     app: PensionAuthorizationApi
+- task: PublishBuildArtifacts@1
