@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: pensionauthorizationrepos
-        image: mypensionmanagementcr.azurecr.io/authapi:latest
+        image: mypensionmanagementcntr.azurecr.io/authapi:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
